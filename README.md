@@ -23,7 +23,7 @@ collector_heartbleed
     $ tar zxvf luarocks-2.4.0.tar.gz
     $ cd luarocks-2.4.0
     $ ./configure
-    $ make bootstrap
+    $ sudo make bootstrap
 
 
     $ luarocks install lua-cjson
