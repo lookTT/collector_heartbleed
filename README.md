@@ -39,7 +39,6 @@ collector_heartbleed
 
     $ git clone https://github.com/lookTT/collector_heartbleed.git
     $ cd collector_heartbleed
-    $ sh setup.sh
     $ sh start.sh
 
 
