@@ -7,6 +7,7 @@ collector_heartbleed
 --------------
 如下:
 
+    $ yum install -y gcc-c++ libstdc++-devel
     $ yum install -y mysql-devel
     $ yum install -y lua
     $ yum install -y lua-devel
